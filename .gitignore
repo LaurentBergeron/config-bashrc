@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!.bashrc
+!git-prompt.sh
+!git-completion.bash
